@@ -1,4 +1,4 @@
-# langpipe
+# LangPipeJS
 
 A production-ready, developer-friendly TypeScript pipeline orchestration library supporting DAG execution, retries, context, secret injection, LLM (Langchain) integration, observability (Langfuse), scheduling, and extensibility.
 

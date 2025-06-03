@@ -1,5 +1,5 @@
 {
-  "name": "langpipe",
+  "name": "langpipejs",
   "version": "1.0.0",
   "description": "A TypeScript pipeline orchestration library with LLM, DAG, and observability support.",
   "main": "dist/index.js",
