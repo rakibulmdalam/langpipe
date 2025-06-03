@@ -1,0 +1,30 @@
+{
+  "name": "langpipe",
+  "version": "1.0.0",
+  "description": "A TypeScript pipeline orchestration library with LLM, DAG, and observability support.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "langchain": "^0.3.27",
+    "node-cron": "^4.1.0",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/ajv": "^0.0.5",
+    "typescript": "^5.8.3"
+  }
+}
